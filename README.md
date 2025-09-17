@@ -10,6 +10,10 @@
 - [Microsoft Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
 - [Microsoft Visual Studio Code](https://code.visualstudio.com/)
 
+## Галерея
+
+![Л](https://github.com/Virus903/Numbers-Metods/blob/master/Console%20calculator.JPG)
+
 ### Гайд 📚
 
 1. Открываете
